@@ -1,2 +1,3 @@
-# OS_Activities_1
-First project from Operating Systems course
+# Operating System First Assignment
+
+The first assignment of the operating systems disciplines of [DCC's](https://www.dcc.ufmg.br/) bachelor program.
